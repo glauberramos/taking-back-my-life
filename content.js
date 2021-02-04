@@ -5,7 +5,7 @@ css.innerHTML = `
   [aria-label='Who to follow'],          /* twitter who to follow */
   .right-rail,                           /* linkedin sidebar */
   .feed-shared-update-v2,                /* linkedin main timeline posts */
-  .ad-banner-container,                  /* linkedin adds */ 
+  .ad-banner-container,                  /* linkedin ads */ 
   [title='Trending'],                    /* youtube trending button */
   #secondary,                            /* youtube sidebar recommended videos */
   .ytp-suggestion-set,                   /* youtube suggestions */
