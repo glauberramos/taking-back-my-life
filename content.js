@@ -8,6 +8,7 @@ css.innerHTML = `
   .ad-banner-container,                  /* linkedin adds */ 
   [title='Trending'],                    /* youtube trending button */
   #secondary,                            /* youtube sidebar recommended videos */
+  .ytp-suggestion-set,                   /* youtube suggestions */
   [page-subtype='home'] {                /* youtube home timeline */
     display: none !important;
   }
