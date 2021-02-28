@@ -4,6 +4,7 @@ css.innerHTML = `
   [aria-label='Timeline: Trending now'], /* twitter trends */
   [aria-label='Who to follow'],          /* twitter who to follow */
   .scaffold-layout__aside,               /* linkedin sidebar */
+  .community-panel-interest-package,     /* linkedin community */
   .ad-banner-container,                  /* linkedin ads */ 
   [title='Trending'],                    /* youtube trending button */
   #secondary,                            /* youtube sidebar recommended videos */
